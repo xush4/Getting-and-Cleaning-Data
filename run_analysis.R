@@ -9,7 +9,7 @@
 ##
 ## #############################################################################################
 
-setwd("~/R/Coursera/assignments/C03-P/Getting-and-Cleaning-Data")
+setwd("~/Getting-and-Cleaning-Data")
 
 ## #############################################################################################
 ## Step 1: Merges the training and the test sets to create one data set.
